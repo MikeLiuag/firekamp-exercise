@@ -66,8 +66,5 @@ If there are issues while connecting to the endpoint, or the execution is succee
 I am going to bring some styling libraries like native-base, react-native-paper or tamagui for the better components. (Right now, it uses the original components from react native with the stylesheet)
 
 ## Images
-![favorite](https://github.com/MikeLiuag/firekamp-exercise/assets/122606053/ae63e000-fb56-4a55-97d6-07e9dca6cebd)
-![discover-2](https://github.com/MikeLiuag/firekamp-exercise/assets/122606053/c33e7886-58df-4580-bb05-3574b5f1544a)
-![discover-1](https://github.com/MikeLiuag/firekamp-exercise/assets/122606053/2b72e37a-bb8d-4100-aed0-711a593a7b95)
-![detail-2](https://github.com/MikeLiuag/firekamp-exercise/assets/122606053/34a2d514-fafa-481b-a8b7-d575fd5c8de3)
-![detail](https://github.com/MikeLiuag/firekamp-exercise/assets/122606053/1adc3707-443c-47a6-ae8c-c1921c534315)
+![image](https://github.com/MikeLiuag/firekamp-exercise/assets/122606053/1fefa764-db23-4540-89d6-ed3f843b560a)
+
